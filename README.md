@@ -8,7 +8,7 @@ Aquí encontrarás los instaladores de nuestra colección de plugins de audio en
 
 Nuestra colección actual incluye:
 
-*   **FG_CutSsssv2** - *Spectral De-esser*. Diseñado para atenuar las sibilancias ("eses") en voces con precisión quirúrgica, con analizador de espectro, lookahead y auto-detección.
+*   **FG_CutSsssv2** - *Diseñado para atenuar las sibilancias ("eses") en voces con precisión quirúrgica, con analizador de espectro, lookahead y auto-detección.
 *   **FG_ConsoleStrip** - *Channel Strip*. Emulación de canal de consola analógica para dar color, pegada y carácter a las pistas.
 *   **FG_GraphicDual3** - *Ecualizador gráfico*. EQ de 8 bandas con modo canal y modo bus, respuesta de fase suave y tres tipos de curvas musicales.
 *   **FG_VocalAtelier v2** - *Procesador vocal*. Suite todo en uno: compresor soft-knee, saturación analógica y ambiente (reverb/delay).
