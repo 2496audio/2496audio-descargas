@@ -1,6 +1,7 @@
 2496audio - Descargas Oficiales
 Te damos la bienvenida a la página oficial de descargas de 2496audio.
 Aquí encontrarás los instaladores de nuestra colección de plugins de audio en formato VST3. Todas nuestras herramientas son 100% gratuitas (freeware), no contienen adware, no requieren registro y no recopilan datos personales. Puedes usarlas en tus proyectos personales y comerciales.
+//
 🎛️ Catálogo de plugins
 Nuestra colección actual incluye:
 FG_CutSsssv2 - Spectral De-esser. Diseñado para atenuar las sibilancias ("eses") en voces con precisión quirúrgica, con analizador de espectro, lookahead y auto-detección.
@@ -8,6 +9,7 @@ FG_ConsoleStrip - Channel Strip. Emulación de canal de consola analógica para 
 FG_GraphicDual3 - Ecualizador gráfico. EQ de 8 bandas con modo canal y modo bus, respuesta de fase suave y tres tipos de curvas musicales.
 FG_VocalAtelier v2 - Procesador vocal. Suite todo en uno: compresor soft-knee, saturación analógica y ambiente (reverb/delay).
 FG_XRayAnalyzerv2 - Analizador visual. Herramienta de monitoreo para comparar el espectro de la señal procesada con una referencia.
+//
 💻 Requisitos
 Windows 10 u 11, 64 bits.
 Un DAW compatible con plugins VST3.
