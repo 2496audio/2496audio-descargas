@@ -36,7 +36,7 @@ Para comprobar que el archivo no fue alterado, compara su hash SHA-256 con el pu
 
 ## 🛠️ Soporte y contacto
 
-*   **Reportar errores o hacer consultas**: Abre un *Issue* en este repositorio o escribe a 2496audio@gmail.com.
+*   **Reportar errores o hacer consultas**: Abre un *Issue* en este repositorio o escribe a 2496.freeplugins@gmail.com.
 *   El soporte se ofrece por mejor esfuerzo, sin plazos garantizados.
 *   **Permisos especiales** (por ejemplo, autorización para redistribuir): por correo electrónico.
 
